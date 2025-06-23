@@ -28,9 +28,9 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 7. **FOR TIMES IN TOP 20%:**
 
 - Game Audio must be present.
-- The full credits must be shown at the end of the run.
 - Video submissions must begin with a power cycle or soft reset.
 - All gameplay should be featured in video submissions. Continuous sections of missing or obscured gameplay on the order of seconds are likely to be a significant barrier to verification. The moderation team may use discretion in extreme cases of frame drops.
+- It is recommended but not required to include the credits including the screen that says **The End**.
 
 ## EMULATOR RULES
 
