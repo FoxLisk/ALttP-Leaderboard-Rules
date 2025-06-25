@@ -22,6 +22,7 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 - Video submissions must include one continuous video of your run.
 - Do not submit temporary stream VODs. It is highly recommended to submit a YouTube upload, a Twitch highlight, or a Twitch upload.
+- For categories that end upon entering the Triforce Room, the video must not end before the text in the Triforce Room has started to draw.
 
 6. No external tools are allowed to assist the player with physically making inputs during the run, unless there is a valid accessibility reason for doing so.
 
