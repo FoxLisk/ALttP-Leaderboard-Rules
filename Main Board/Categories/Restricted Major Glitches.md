@@ -33,5 +33,6 @@ The following techniques are **ALLOWED** in RMG Categories:
 - Barrier Revival
 - Stairmaster
 - Blockbuster
+- Medallion Clipping
 
 ---
