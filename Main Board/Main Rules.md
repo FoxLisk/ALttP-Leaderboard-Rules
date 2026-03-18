@@ -18,22 +18,27 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 4. RAM Preparation is banned. Power cycle or soft reset before your run to prevent this.
 
-5. Video submission is required:
+5. No external tools are allowed to assist the player with physically making inputs during the run, unless there is a valid accessibility reason for doing so.
 
-- Video submissions must include one continuous video of your run.
-- Do not submit temporary stream VODs. It is highly recommended to submit a YouTube upload, a Twitch highlight, or a Twitch upload.
-- For categories that end upon entering the Triforce Room, the video must not end before the text in the Triforce Room has started to draw.
+## Video Submission Requirements
 
-6. No external tools are allowed to assist the player with physically making inputs during the run, unless there is a valid accessibility reason for doing so.
+Video of your run is required for submission.
 
-7. **FOR TIMES IN TOP 20%:**
+1.  Submissions must include one continuous video of your run.
 
-- Game Audio must be present.
-- All gameplay should be featured in video submissions. Continuous sections of missing or obscured gameplay on the order of seconds are likely to be a significant barrier to verification. The moderation team may use discretion in extreme cases of frame drops.
+2.  Do not submit temporary stream VoDs. It is highly recommended to submit a YouTube upload, a Twitch highlight, or a Twitch upload.
+
+3.  For categories that end upon entering the Triforce Room, the video must not end before the text in the Triforce Room has started to draw.
+
+
+### For Times In Top 20%
+
+1.  Game Audio must be present.
+2.  All gameplay should be featured in video submissions. Continuous sections of missing or obscured gameplay on the order of seconds are likely to be a significant barrier to verification. The moderation team may use discretion in extreme cases of frame drops.
 
 ### Recommendations
 
-The following are recommended, but not required, to include in your VoD:
+The following are recommended, but not required, to include in your video:
 
 - The credits sequence, including the screen that says **The End** .
 - The power cycle or soft reset before your run.
