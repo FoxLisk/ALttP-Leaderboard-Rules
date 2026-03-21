@@ -35,7 +35,7 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 5. It is **recommended** but not required to include the credits including the screen that says *The End*.
 
 
-### For Times In the Top 20%
+### For Times in the Top 20%
 
 1.  Game Audio must be present.
 2.  All gameplay should be featured in video submissions. Continuous sections of missing or obscured gameplay on the order of seconds are likely to be a significant barrier to verification. The moderation team may use discretion in extreme cases of frame drops.
