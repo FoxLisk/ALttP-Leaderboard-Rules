@@ -54,7 +54,7 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 5. Input must be continually registered for the duration of the button being depressed (e.g. pressing and holding a direction must register as pressing and holding, not just a single frame of input).
 
-**For Times in the Top 20%:**
+### For Times in the Top 20%
 
 1. FPS must be displayed for the duration of the run.
 2. Emulator name/version should be visible or shown at the end of the run.
