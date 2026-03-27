@@ -8,6 +8,8 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 **Be sure to read the category rules as well!**
 
+---
+
 ## GLOBAL RULES
 
 1. Only official Japanese, American and European versions are allowed.
@@ -18,20 +20,27 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 4. RAM Preparation is banned. Power cycle or soft reset before your run to prevent this.
 
-5. Video submission is required:
+5. No external tools are allowed to assist the player with physically making inputs during the run, unless there is a valid accessibility reason for doing so.
 
-- Video submissions must include one continuous video of your run.
-- Do not submit temporary stream VODs. It is highly recommended to submit a YouTube upload, a Twitch highlight, or a Twitch upload.
-- For categories that end upon entering the Triforce Room, the video must not end before the text in the Triforce Room has started to draw.
+## Video Submission Rules
 
-6. No external tools are allowed to assist the player with physically making inputs during the run, unless there is a valid accessibility reason for doing so.
+1.  Submissions must include one continuous video of your run.
 
-7. **FOR TIMES IN TOP 20%:**
+2.  Do not submit temporary stream VoDs. It is **highly recommended** to submit a YouTube upload, a Twitch highlight, or a Twitch upload.
 
-- Game Audio must be present.
-- Video submissions must begin with a power cycle or soft reset.
-- All gameplay should be featured in video submissions. Continuous sections of missing or obscured gameplay on the order of seconds are likely to be a significant barrier to verification. The moderation team may use discretion in extreme cases of frame drops.
-- It is recommended but not required to include the credits including the screen that says **The End**.
+3.  For categories that end upon entering the Triforce Room, the video must not end before the text in the Triforce Room has started to draw.
+
+4. It is **recommended** but not required to begin video submissions with a power cycle or soft reset.
+
+5. It is **recommended** but not required to include the credits including the screen that says *The End*.
+
+
+### For Times in the Top 20%
+
+1.  Game Audio must be present.
+2.  All gameplay should be featured in video submissions. Continuous sections of missing or obscured gameplay on the order of seconds are likely to be a significant barrier to verification. The moderation team may use discretion in extreme cases of frame drops.
+
+---
 
 ## EMULATOR RULES
 
@@ -45,9 +54,9 @@ These rules apply to the entire leaderboard, unless otherwise specified by the c
 
 5. Input must be continually registered for the duration of the button being depressed (e.g. pressing and holding a direction must register as pressing and holding, not just a single frame of input).
 
-6. **FOR TIMES IN TOP 20%:**
+### For Times in the Top 20%
 
-- FPS must be displayed for the duration of the run.
-- Emulator name/version should be visible or shown at the end of the run.
-- The input configuration (button mappings) must be shown at the end of the run.
-- Runs on Retroarch and other emulators with the option must show that Run-Ahead was disabled.
+1. FPS must be displayed for the duration of the run.
+2. Emulator name/version should be visible or shown at the end of the run.
+3. The input configuration (button mappings) must be shown at the end of the run.
+4. Runs on Retroarch and other emulators with the option must show that Run-Ahead was disabled.
