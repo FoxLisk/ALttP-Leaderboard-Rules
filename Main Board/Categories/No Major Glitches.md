@@ -13,15 +13,15 @@ The following techniques are **ALLOWED** in NMG categories:
 - Item Dashing
 - Superspeed (Armed & Active)
   - This includes pot and bottle spinspeed using underworld stairs
-- Block Push Glitches (Hook/Fire Rod/Mirror)
+- Block Push Glitches (e.g. Hook/Fire Rod through block, Mirror Block Deletion)
 - Big Bomb Dupe
 - Big Bomb/Purple Chest Dashing
-- Interior Rail Clipping
+- Interior Rail Clipping (e.g. clipping through the freestanding rail in Hera petting zoo)
 - Hovering
 - Fake Flippers
 - Waterwalk
 - Damage Overriding (i.e. Fire Rod Doubles)
-- Forcing Enemies Off Screen or Out of Bounds (Example)
+- Forcing Enemies Off Screen or Out of Bounds (e.g. Mimic clipping)
 - Spooky Action at a Distance
 - Pit-based clipping (i.e. Hammeryump, Mire bomb jump, GT torches 1 pot)
 - Ancilla Overloading
